@@ -1,0 +1,33 @@
+s = {
+	id = "C2BE24F4-D954-4A78-9C55-686217C5830A",
+	internalName = "Copyright Watermark",
+	title = "Copyright Watermark",
+	type = "WatermarkingPreset",
+	value = {
+		items = {
+			{
+				anchor = "bottomleft",
+				horizontalPadding = 0,
+				kind = "text",
+				opacity = 1,
+				orientation = "AB",
+				sizeKind = "relative",
+				sizeRelativeAmount = 0.10888432720745,
+				text = "   Copyright",
+				textColorBlue = 1,
+				textColorGreen = 1,
+				textColorRed = 1,
+				textFontName = "Myriad Web Pro-Regular",
+				textHorizontalAlignment = "left",
+				textShadowAngle = 270,
+				textShadowEnabled = true,
+				textShadowOffset = 0.1,
+				textShadowOpacity = 0.8,
+				textShadowRadius = 0.2,
+				textVerticalAlignment = "top",
+				verticalPadding = 0,
+			},
+		},
+	},
+	version = 0,
+}

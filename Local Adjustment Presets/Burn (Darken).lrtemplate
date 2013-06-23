@@ -1,0 +1,17 @@
+s = {
+	id = "86261CEB-3283-4FD0-A084-4118957DC6F2",
+	internalName = "Burn (Darken)",
+	title = ZSTR "$$$/AgDevelop/Localized/Preset/BurnDarken=Burn (Darken)",
+	type = "LocalizedAdjustmentPreset",
+	value = {
+		clarity = 0,
+		contrast = 0,
+		exposure = -0.080459770114943,
+		saturation = 0,
+		sharpness = 0,
+		toningHue = 240,
+		toningLuminance = 0,
+		toningSaturation = 0,
+	},
+	version = 0,
+}

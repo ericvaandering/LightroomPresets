@@ -1,0 +1,17 @@
+s = {
+	id = "48862CD1-0B08-477A-933E-E5922F27B950",
+	internalName = "Iris Enhance",
+	title = ZSTR "$$$/AgDevelop/Localized/Preset/IrisEnhance=Iris Enhance",
+	type = "LocalizedAdjustmentPreset",
+	value = {
+		clarity = 0.65517199039459,
+		contrast = 0,
+		exposure = 0.1724140048027,
+		saturation = 0.70114898681641,
+		sharpness = 0,
+		toningHue = 240,
+		toningLuminance = 0,
+		toningSaturation = 0,
+	},
+	version = 0,
+}

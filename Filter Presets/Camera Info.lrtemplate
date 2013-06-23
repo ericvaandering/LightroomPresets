@@ -1,0 +1,44 @@
+s = {
+	id = "AA3F9B24-337A-4DF5-A60B-2709C90BD554",
+	internalName = "Camera Info",
+	title = "Camera Info",
+	type = "LibraryFilter",
+	value = {
+		columnBrowserActive = true,
+		columnBrowserDesc = {
+			{
+				criteria = "fileFormat",
+			},
+			{
+				criteria = "camera",
+			},
+			{
+				criteria = "lens",
+			},
+			{
+				criteria = "flashFired",
+			},
+			{
+				criteria = "isoSpeed",
+			},
+		},
+		customLabel = false,
+		filtersActive = false,
+		label1 = false,
+		label2 = false,
+		label3 = false,
+		label4 = false,
+		label5 = false,
+		labelOp = "any",
+		minRating = 1,
+		noLabel = false,
+		pick = "<nil>",
+		ratingOp = ">=",
+		searchOp = "all",
+		searchString = "",
+		searchStringActive = false,
+		searchTarget = "all",
+		whichCopies = "<nil>",
+	},
+	version = 0,
+}

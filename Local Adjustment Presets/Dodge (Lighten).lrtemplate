@@ -1,0 +1,17 @@
+s = {
+	id = "4B2C93F8-F28C-4254-9F34-19D75CF854CA",
+	internalName = "Dodge (Lighten)",
+	title = ZSTR "$$$/AgDevelop/Localized/Preset/DodgeLighten=Dodge (Lighten)",
+	type = "LocalizedAdjustmentPreset",
+	value = {
+		clarity = 0,
+		contrast = 0,
+		exposure = 0.057470999658108,
+		saturation = 0,
+		sharpness = 0,
+		toningHue = 240,
+		toningLuminance = 0,
+		toningSaturation = 0,
+	},
+	version = 0,
+}

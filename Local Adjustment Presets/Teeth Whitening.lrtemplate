@@ -1,0 +1,17 @@
+s = {
+	id = "5D68DBAD-147B-4CD3-833A-803DFA2C5C78",
+	internalName = "Teeth Whitening",
+	title = ZSTR "$$$/AgDevelop/Localized/Preset/TeethWhitening=Teeth Whitening",
+	type = "LocalizedAdjustmentPreset",
+	value = {
+		clarity = 0,
+		contrast = 0,
+		exposure = 0.1034480035305,
+		saturation = -0.63218402862549,
+		sharpness = 0,
+		toningHue = 233,
+		toningLuminance = 0,
+		toningSaturation = 0,
+	},
+	version = 0,
+}

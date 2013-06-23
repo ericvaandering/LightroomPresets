@@ -1,0 +1,33 @@
+s = {
+	id = "793C6551-4675-4F85-AF07-3BDFE03EF0D0",
+	internalName = "Web Watermark",
+	title = "Web Watermark",
+	type = "WatermarkingPreset",
+	value = {
+		items = {
+			{
+				anchor = "bottomleft",
+				horizontalPadding = 0.018,
+				kind = "text",
+				opacity = 0.695,
+				orientation = "AB",
+				sizeKind = "relative",
+				sizeRelativeAmount = 0.10680503103526,
+				text = "© Eric Vaandering",
+				textColorBlue = 1,
+				textColorGreen = 1,
+				textColorRed = 1,
+				textFontName = "Myriad Web Pro-Regular",
+				textHorizontalAlignment = "left",
+				textShadowAngle = 270,
+				textShadowEnabled = true,
+				textShadowOffset = 0.02,
+				textShadowOpacity = 0.8,
+				textShadowRadius = 0.2,
+				textVerticalAlignment = "top",
+				verticalPadding = 0.009,
+			},
+		},
+	},
+	version = 0,
+}
