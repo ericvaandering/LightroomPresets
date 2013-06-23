@@ -1,0 +1,17 @@
+s = {
+	id = "803B795B-0776-4351-9921-4EF1913C1916",
+	internalName = "Vignette - Heavy",
+	title = "Vignette - Heavy",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableVignettes = true,
+			PostCropVignetteAmount = -60,
+			PostCropVignetteFeather = 86,
+			PostCropVignetteMidpoint = 50,
+			PostCropVignetteRoundness = 71,
+		},
+		uuid = "9936DB25-B03D-439E-9382-DD5856761E6D",
+	},
+	version = 0,
+}

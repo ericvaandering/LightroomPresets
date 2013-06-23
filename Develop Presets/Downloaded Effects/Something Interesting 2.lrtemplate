@@ -1,0 +1,23 @@
+s = {
+	id = "4EC12CB2-84DF-404E-9C09-2A656120315A",
+	internalName = "Something Interesting 2",
+	title = "Something Interesting 2",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			ConvertToGrayscale = false,
+			HighlightRecovery = 20,
+			IncrementalTemperature = 52,
+			IncrementalTint = 0,
+			Saturation = -54,
+			Shadows = 13,
+			WhiteBalance = "Custom",
+		},
+		uuid = "C84FAB7D-E83D-4ECA-AA88-0CF43193F551",
+	},
+	version = 0,
+}

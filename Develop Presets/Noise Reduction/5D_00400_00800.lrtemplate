@@ -1,0 +1,22 @@
+s = {
+	id = "D5C389FD-1F65-422D-937F-67FCA43EE81E",
+	internalName = "5D_00400",
+	title = "5D_00400_00800",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 15,
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 40,
+			SharpenRadius = 1,
+			Sharpness = 40,
+		},
+		uuid = "57039731-2AA0-4BAF-AE5D-59F87722502D",
+	},
+	version = 0,
+}

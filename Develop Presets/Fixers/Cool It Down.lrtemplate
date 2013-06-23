@@ -1,0 +1,15 @@
+s = {
+	id = "192EADC6-BF79-47CB-8938-D51A26F78815",
+	internalName = "Cool It Down",
+	title = "Cool It Down",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 5125,
+			Tint = -2,
+			WhiteBalance = "Custom",
+		},
+		uuid = "1554F771-77DD-436C-99EC-CE3A69F16B76",
+	},
+	version = 0,
+}

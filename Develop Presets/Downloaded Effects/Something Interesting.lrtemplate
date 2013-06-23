@@ -1,0 +1,21 @@
+s = {
+	id = "BDDCBE94-3C6B-4F4B-A9B1-783F1E2DAB38",
+	internalName = "Something Interesting",
+	title = "Something Interesting",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			HighlightRecovery = 20,
+			IncrementalTemperature = 52,
+			IncrementalTint = 0,
+			Shadows = 13,
+			WhiteBalance = "Custom",
+		},
+		uuid = "3A3B984E-8077-43AD-B171-923F7C991F2B",
+	},
+	version = 0,
+}

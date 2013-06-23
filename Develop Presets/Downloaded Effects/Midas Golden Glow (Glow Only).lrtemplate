@@ -1,0 +1,18 @@
+s = {
+	id = "F3DB6449-7CCF-47ED-A827-9EEB0DCDCC47",
+	internalName = "Sean's Golden Glow (Glow Only)",
+	title = "Midas Golden Glow (Glow Only)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 49,
+			SplitToningHighlightSaturation = 100,
+			SplitToningShadowHue = 45,
+			SplitToningShadowSaturation = 0,
+		},
+		uuid = "0FF9DA98-6D7D-4D6A-8898-8245AF2D94C2",
+	},
+	version = 0,
+}

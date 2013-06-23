@@ -1,0 +1,18 @@
+s = {
+	id = "2CB3B023-C9C4-4C2F-8B30-0FC7EF87855D",
+	internalName = "20D_0800",
+	title = "20D_0800",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 30,
+		},
+		uuid = "D7576AD0-03D6-4481-9960-68454A366A24",
+	},
+	version = 0,
+}

@@ -1,0 +1,22 @@
+s = {
+	id = "4BB24FDC-670B-4137-A85D-7816B131024E",
+	internalName = "7D_00100_00200",
+	title = "7D_00100_00200",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 10,
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 50,
+			SharpenRadius = 1,
+			Sharpness = 25,
+		},
+		uuid = "0675C12A-5669-443B-A1DA-63A9A2B244DC",
+	},
+	version = 0,
+}

@@ -1,0 +1,22 @@
+s = {
+	id = "4B3828A3-E4D6-47D2-9F4F-7132EFCA57AE",
+	internalName = "5D_25600",
+	title = "5D_25600",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 60,
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 80,
+			SharpenRadius = 1,
+			Sharpness = 40,
+		},
+		uuid = "65593343-FDD1-43EF-8839-E7E17489BCE6",
+	},
+	version = 0,
+}

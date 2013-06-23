@@ -1,0 +1,18 @@
+s = {
+	id = "00386C53-00B6-41AE-ABE3-7BC371DF26D2",
+	internalName = "40D_3200",
+	title = "40D_3200",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 20,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 25,
+		},
+		uuid = "AF0E1298-4504-4913-ADEB-978087D3276E",
+	},
+	version = 0,
+}

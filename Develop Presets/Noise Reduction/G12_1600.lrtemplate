@@ -1,0 +1,22 @@
+s = {
+	id = "3F3D2E5E-D365-4284-8CEB-A34401FAFA4F",
+	internalName = "G12_1600",
+	title = "G12_1600",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 30,
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 60,
+			SharpenRadius = 1,
+			Sharpness = 40,
+		},
+		uuid = "C59D587D-3380-40A4-9544-896DA43FC2F4",
+	},
+	version = 0,
+}

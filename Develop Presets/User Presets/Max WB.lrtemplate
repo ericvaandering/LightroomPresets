@@ -1,0 +1,15 @@
+s = {
+	id = "DF9E34C2-3DE0-4FB6-B298-91793158E097",
+	internalName = "Max WB",
+	title = "Max WB",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 50000,
+			Tint = 150,
+			WhiteBalance = "Custom",
+		},
+		uuid = "549BD239-7EE4-451F-86E3-667A90567D70",
+	},
+	version = 0,
+}

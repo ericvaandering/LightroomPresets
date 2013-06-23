@@ -1,0 +1,23 @@
+s = {
+	id = "4794C31C-B19F-499F-8F8B-E2EBC29091D9",
+	internalName = "G10_1600",
+	title = "G10_1600",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 40,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 60,
+			ProcessVersion = "6.7",
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 60,
+			SharpenRadius = 1,
+			Sharpness = 40,
+		},
+		uuid = "7CBF1343-2612-4CF7-8C63-D0A745E007DE",
+	},
+	version = 0,
+}

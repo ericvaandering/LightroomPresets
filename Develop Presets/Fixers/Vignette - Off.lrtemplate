@@ -1,0 +1,17 @@
+s = {
+	id = "68C32A78-6642-486C-BA70-86E3F3BA487B",
+	internalName = "Vignette - Off",
+	title = "Vignette - Off",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableVignettes = true,
+			PostCropVignetteAmount = 0,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteMidpoint = 50,
+			PostCropVignetteRoundness = 0,
+		},
+		uuid = "0D71D157-2E1C-4169-9A95-F5771FEE6458",
+	},
+	version = 0,
+}

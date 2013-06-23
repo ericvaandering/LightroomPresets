@@ -1,0 +1,15 @@
+s = {
+	id = "C6B822C1-4DAD-4158-961F-AC6822DDA7BE",
+	internalName = "Fantasy Island",
+	title = "Fantasy Island",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity = -60,
+			Saturation = 25,
+			Vibrance = -71,
+		},
+		uuid = "C3E54E0C-9E14-4578-9AFC-5C8CA1FB6BE9",
+	},
+	version = 0,
+}

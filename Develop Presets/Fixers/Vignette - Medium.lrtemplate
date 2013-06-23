@@ -1,0 +1,17 @@
+s = {
+	id = "4FE7AA0E-BF62-4EDC-AEAE-674E303BCD82",
+	internalName = "Vignette - Medium",
+	title = "Vignette - Medium",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableVignettes = true,
+			PostCropVignetteAmount = -31,
+			PostCropVignetteFeather = 57,
+			PostCropVignetteMidpoint = 50,
+			PostCropVignetteRoundness = 27,
+		},
+		uuid = "BE0B2D80-3E5D-4CD2-B693-A5D6F2C49F33",
+	},
+	version = 0,
+}

@@ -1,0 +1,18 @@
+s = {
+	id = "19A4B0A2-B1F3-4432-BB34-A978FE5E1E3A",
+	internalName = "20D_LowIso",
+	title = "20D_0100_0200",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 10,
+		},
+		uuid = "3E4AFB72-4EC0-4583-B5E8-6AF12B267D81",
+	},
+	version = 0,
+}

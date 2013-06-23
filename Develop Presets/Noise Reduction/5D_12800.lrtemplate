@@ -1,0 +1,22 @@
+s = {
+	id = "EBF0287F-8EF1-41D3-8961-DE70E28C1F3E",
+	internalName = "5D_12800",
+	title = "5D_12800",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 50,
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 80,
+			SharpenRadius = 1,
+			Sharpness = 40,
+		},
+		uuid = "0DE52F58-0DA3-4679-8A57-082C63F8195D",
+	},
+	version = 0,
+}

@@ -1,0 +1,18 @@
+s = {
+	id = "8B1B583D-CBA7-4F2A-A996-E120B9CCE6E2",
+	internalName = "Sunset+",
+	title = "Sunset+",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 41,
+			SplitToningHighlightSaturation = 72,
+			SplitToningShadowHue = 0,
+			SplitToningShadowSaturation = 19,
+		},
+		uuid = "4B2852DE-022F-44F6-BB95-266212BB853D",
+	},
+	version = 0,
+}

@@ -1,0 +1,22 @@
+s = {
+	id = "AD0AB4AE-7448-4EBF-8F59-D6EC53A589BD",
+	internalName = "HDR Look (Light)",
+	title = "HDR Look (Light)",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -5,
+			Clarity2012 = 39,
+			Contrast2012 = 28,
+			ConvertToGrayscale = false,
+			Exposure2012 = 0.2,
+			Highlights2012 = -41,
+			ProcessVersion = "6.7",
+			Shadows2012 = 49,
+			WhiteBalance = "As Shot",
+			Whites2012 = 7,
+		},
+		uuid = "2ADF2A16-E2B2-493B-8AC6-9D94B51FEACD",
+	},
+	version = 0,
+}

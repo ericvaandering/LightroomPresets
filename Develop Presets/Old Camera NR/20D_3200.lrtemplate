@@ -1,0 +1,18 @@
+s = {
+	id = "8A899257-37A1-499E-ADD7-D87B8B63B5AC",
+	internalName = "20D_3200",
+	title = "20D_3200",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 20,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 50,
+		},
+		uuid = "7587B061-B93E-4948-97CC-543BA7C74C46",
+	},
+	version = 0,
+}

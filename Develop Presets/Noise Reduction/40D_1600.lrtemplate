@@ -1,0 +1,18 @@
+s = {
+	id = "710E54FF-F089-4A14-8C8F-BF90E5962716",
+	internalName = "40D_1600",
+	title = "40D_1600",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 30,
+		},
+		uuid = "237A8468-C649-4F48-8F36-60F6B228DA4F",
+	},
+	version = 0,
+}

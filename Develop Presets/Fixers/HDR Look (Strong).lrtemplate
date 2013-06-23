@@ -1,0 +1,22 @@
+s = {
+	id = "6DF3B0A5-9948-4834-B8BF-EDD7236F393A",
+	internalName = "HDR Look (Strong)",
+	title = "HDR Look (Strong)",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -29,
+			Clarity2012 = 100,
+			Contrast2012 = 28,
+			ConvertToGrayscale = false,
+			Exposure2012 = 0.2,
+			Highlights2012 = -100,
+			ProcessVersion = "6.7",
+			Shadows2012 = 100,
+			WhiteBalance = "As Shot",
+			Whites2012 = 27,
+		},
+		uuid = "19F5BBCC-5350-484D-AA1E-2023B4B8BFFD",
+	},
+	version = 0,
+}

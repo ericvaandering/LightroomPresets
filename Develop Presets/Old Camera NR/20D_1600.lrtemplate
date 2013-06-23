@@ -1,0 +1,18 @@
+s = {
+	id = "532E6787-DF66-4756-89D6-2AC08CA583BA",
+	internalName = "20D_1600",
+	title = "20D_1600",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 20,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 40,
+		},
+		uuid = "C7461C38-FB6F-4DFB-A03C-18A256B829E7",
+	},
+	version = 0,
+}

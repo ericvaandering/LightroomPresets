@@ -1,0 +1,22 @@
+s = {
+	id = "27F0CA05-254B-48E8-AAC6-91F94832CC03",
+	internalName = "HDR Look (Medium)",
+	title = "HDR Look (Medium)",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -16,
+			Clarity2012 = 72,
+			Contrast2012 = 28,
+			ConvertToGrayscale = false,
+			Exposure2012 = 0.2,
+			Highlights2012 = -75,
+			ProcessVersion = "6.7",
+			Shadows2012 = 76,
+			WhiteBalance = "As Shot",
+			Whites2012 = 17,
+		},
+		uuid = "EDC026CE-7B34-4FDE-BF7C-D2C6C3DE19E5",
+	},
+	version = 0,
+}

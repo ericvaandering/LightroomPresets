@@ -1,0 +1,18 @@
+s = {
+	id = "A701F088-4FEB-4473-B498-638A588731C3",
+	internalName = "G10_200",
+	title = "G10_0200",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 20,
+		},
+		uuid = "49CF69A6-66AD-4C7C-A5D7-2B4A7A1783BD",
+	},
+	version = 0,
+}

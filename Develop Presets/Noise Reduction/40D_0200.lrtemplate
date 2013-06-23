@@ -1,0 +1,18 @@
+s = {
+	id = "26EA28F2-6ACE-4ABC-84A3-8E6B63610F95",
+	internalName = "40D_LowIso",
+	title = "40D_0200",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 10,
+		},
+		uuid = "946BB6A9-2CD5-425E-AFCE-A4A94B326DDF",
+	},
+	version = 0,
+}
