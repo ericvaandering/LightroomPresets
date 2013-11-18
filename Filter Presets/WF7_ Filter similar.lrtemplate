@@ -1,25 +1,25 @@
 s = {
-	id = "54C8B67E-4063-4422-8DC2-24AEC7C07076",
-	internalName = "WF0: Set NR and GPS",
-	title = "WF0: Set NR and GPS",
+	id = "DE3E3C5B-2561-4052-9BF2-00B1E66967DA",
+	internalName = "WF7: Filter similar",
+	title = "WF7: Filter similar",
 	type = "LibraryFilter",
 	value = {
 		columnBrowserActive = true,
 		columnBrowserDesc = {
 			{
-				criteria = "camera",
+				criteria = "keyword",
+				selections = {
+					170013,
+				},
 			},
 			{
-				criteria = "lens",
+				criteria = "keyword",
 			},
 			{
 				criteria = "flashFired",
 			},
 			{
-				criteria = "isoSpeed",
-			},
-			{
-				criteria = "hasGPS",
+				criteria = "label",
 			},
 		},
 		customLabel = false,
@@ -30,15 +30,15 @@ s = {
 		gpsLocationSWLatitude = -63.859762740392,
 		gpsLocationSWLongitude = -180,
 		label1 = false,
-		label2 = false,
+		label2 = true,
 		label3 = false,
 		label4 = false,
 		label5 = false,
 		labelOp = "any",
 		minRating = "<nil>",
-		noLabel = true,
+		noLabel = false,
 		pick = "unrejected",
-		ratingOp = ">=",
+		ratingOp = "==",
 		searchOp = "all",
 		searchString = "",
 		searchStringActive = false,

@@ -1,11 +1,14 @@
 s = {
-	id = "54C8B67E-4063-4422-8DC2-24AEC7C07076",
-	internalName = "WF0: Set NR and GPS",
-	title = "WF0: Set NR and GPS",
+	id = "9C1AA9B6-B23A-4502-B2FF-331D00126079",
+	internalName = "WF3: Filter brackets",
+	title = "WF3: Filter brackets (UW dupes)",
 	type = "LibraryFilter",
 	value = {
-		columnBrowserActive = true,
+		columnBrowserActive = false,
 		columnBrowserDesc = {
+			{
+				criteria = "dateHierarchy",
+			},
 			{
 				criteria = "camera",
 			},
@@ -13,13 +16,7 @@ s = {
 				criteria = "lens",
 			},
 			{
-				criteria = "flashFired",
-			},
-			{
-				criteria = "isoSpeed",
-			},
-			{
-				criteria = "hasGPS",
+				criteria = "label",
 			},
 		},
 		customLabel = false,
@@ -29,16 +26,16 @@ s = {
 		gpsLocationNELongitude = 180,
 		gpsLocationSWLatitude = -63.859762740392,
 		gpsLocationSWLongitude = -180,
-		label1 = false,
+		label1 = true,
 		label2 = false,
 		label3 = false,
 		label4 = false,
 		label5 = false,
 		labelOp = "any",
-		minRating = "<nil>",
-		noLabel = true,
+		minRating = 2,
+		noLabel = false,
 		pick = "unrejected",
-		ratingOp = ">=",
+		ratingOp = "==",
 		searchOp = "all",
 		searchString = "",
 		searchStringActive = false,
