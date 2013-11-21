@@ -1,0 +1,50 @@
+s = {
+	id = "449F6441-CD2B-40F9-9B05-35E86DEC6C84",
+	internalName = "WF5: Check exposure",
+	title = "WF5: Check exposure",
+	type = "LibraryFilter",
+	value = {
+		columnBrowserActive = false,
+		columnBrowserDesc = {
+			{
+				criteria = "keyword",
+				selections = {
+					170013,
+				},
+			},
+			{
+				criteria = "keyword",
+			},
+			{
+				criteria = "flashFired",
+			},
+			{
+				criteria = "label",
+			},
+		},
+		customLabel = false,
+		filtersActive = true,
+		gpsLocation = false,
+		gpsLocationNELatitude = 83.068848955463,
+		gpsLocationNELongitude = 180,
+		gpsLocationSWLatitude = -63.859762740392,
+		gpsLocationSWLongitude = -180,
+		label1 = true,
+		label2 = false,
+		label3 = false,
+		label4 = false,
+		label5 = false,
+		labelOp = "any",
+		minRating = 4,
+		noLabel = false,
+		pick = "unrejected",
+		ratingOp = "==",
+		searchOp = "all",
+		searchString = "",
+		searchStringActive = false,
+		searchTarget = "all",
+		usage = "<nil>",
+		whichCopies = "<nil>",
+	},
+	version = 0,
+}
