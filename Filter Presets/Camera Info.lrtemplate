@@ -7,13 +7,13 @@ s = {
 		columnBrowserActive = true,
 		columnBrowserDesc = {
 			{
-				criteria = "fileFormat",
-			},
-			{
 				criteria = "camera",
 			},
 			{
 				criteria = "lens",
+			},
+			{
+				criteria = "focalLength",
 			},
 			{
 				criteria = "flashFired",
@@ -24,6 +24,11 @@ s = {
 		},
 		customLabel = false,
 		filtersActive = false,
+		gpsLocation = false,
+		gpsLocationNELatitude = 45.783102029466,
+		gpsLocationNELongitude = 4.8659146332741,
+		gpsLocationSWLatitude = 45.782231300468,
+		gpsLocationSWLongitude = 4.8640853667259,
 		label1 = false,
 		label2 = false,
 		label3 = false,
@@ -38,6 +43,7 @@ s = {
 		searchString = "",
 		searchStringActive = false,
 		searchTarget = "all",
+		usage = "<nil>",
 		whichCopies = "<nil>",
 	},
 	version = 0,
