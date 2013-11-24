@@ -1,0 +1,24 @@
+s = {
+	id = "69F7CFD7-50BD-4D60-B870-204A334E501B",
+	internalName = "G15_03200",
+	title = "G15_03200",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 20,
+			ColorNoiseReductionDetail = 50,
+			ColorNoiseReductionSmoothness = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 45,
+			ProcessVersion = "6.7",
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 70,
+			SharpenRadius = 1,
+			Sharpness = 50,
+		},
+		uuid = "27352B67-7EA2-40C9-B5E8-8DB5E346C26C",
+	},
+	version = 0,
+}

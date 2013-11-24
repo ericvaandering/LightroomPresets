@@ -1,0 +1,22 @@
+s = {
+	id = "2CFEDAB3-8EE6-4E72-BD6E-C37EE8FF7609",
+	internalName = "G12_0080_0200",
+	title = "G12_0080_0200",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 5,
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 60,
+			SharpenRadius = 1,
+			Sharpness = 40,
+		},
+		uuid = "13B2FF52-BEEB-4EA3-9A3B-47228D6C9BD3",
+	},
+	version = 0,
+}
