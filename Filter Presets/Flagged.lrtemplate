@@ -21,6 +21,7 @@ s = {
 
 		pick = "flagged",
 
+		usage = "<nil>",
 		whichCopies = "<nil>",
 	},
 }

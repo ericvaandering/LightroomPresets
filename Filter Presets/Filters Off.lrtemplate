@@ -23,6 +23,7 @@ s = {
 		searchString = "",
 		searchStringActive = false,
 		searchTarget = "all",
+		usage = "<nil>",
 		whichCopies = "<nil>",
 	},
 	version = 0,

@@ -20,6 +20,7 @@ s = {
 		minRating = "<nil>",
 		
 		pick = "<nil>",
+		usage = "<nil>",
 		whichCopies = "<nil>",
 	},
 }
