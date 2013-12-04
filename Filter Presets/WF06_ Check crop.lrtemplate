@@ -1,13 +1,16 @@
 s = {
-	id = "DE3E3C5B-2561-4052-9BF2-00B1E66967DA",
-	internalName = "WF7: Filter similar",
-	title = "WF7: Filter similar",
+	id = "2A0C90CE-D380-4653-A511-7F6978C96635",
+	internalName = "WF6: Check crop",
+	title = "WF06: Check crop",
 	type = "LibraryFilter",
 	value = {
-		columnBrowserActive = true,
+		columnBrowserActive = false,
 		columnBrowserDesc = {
 			{
 				criteria = "keyword",
+				selections = {
+					170013,
+				},
 			},
 			{
 				criteria = "keyword",
@@ -26,13 +29,13 @@ s = {
 		gpsLocationNELongitude = 180,
 		gpsLocationSWLatitude = -63.859762740392,
 		gpsLocationSWLongitude = -180,
-		label1 = false,
-		label2 = true,
+		label1 = true,
+		label2 = false,
 		label3 = false,
 		label4 = false,
 		label5 = false,
 		labelOp = "any",
-		minRating = "<nil>",
+		minRating = 5,
 		noLabel = false,
 		pick = "unrejected",
 		ratingOp = "==",

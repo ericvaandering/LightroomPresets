@@ -1,10 +1,10 @@
 s = {
-	id = "DE3E3C5B-2561-4052-9BF2-00B1E66967DA",
-	internalName = "WF7: Filter similar",
-	title = "WF7: Filter similar",
+	id = "5325ACA7-9AE0-49D4-99D0-9E5CF407A6E2",
+	internalName = "WF8: Set WB individually",
+	title = "WF8: Set WB individually",
 	type = "LibraryFilter",
 	value = {
-		columnBrowserActive = true,
+		columnBrowserActive = false,
 		columnBrowserDesc = {
 			{
 				criteria = "keyword",
@@ -32,7 +32,7 @@ s = {
 		label4 = false,
 		label5 = false,
 		labelOp = "any",
-		minRating = "<nil>",
+		minRating = 1,
 		noLabel = false,
 		pick = "unrejected",
 		ratingOp = "==",

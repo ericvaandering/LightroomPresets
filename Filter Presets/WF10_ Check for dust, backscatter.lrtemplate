@@ -1,16 +1,13 @@
 s = {
-	id = "449F6441-CD2B-40F9-9B05-35E86DEC6C84",
-	internalName = "WF5: Check exposure",
-	title = "WF5: Check exposure",
+	id = "06C352C2-47BF-4862-942F-2B5D1AC1969E",
+	internalName = "WF10: Check for dust, backscatter",
+	title = "WF10: Check for dust, backscatter",
 	type = "LibraryFilter",
 	value = {
 		columnBrowserActive = false,
 		columnBrowserDesc = {
 			{
 				criteria = "keyword",
-				selections = {
-					170013,
-				},
 			},
 			{
 				criteria = "keyword",
@@ -29,13 +26,13 @@ s = {
 		gpsLocationNELongitude = 180,
 		gpsLocationSWLatitude = -63.859762740392,
 		gpsLocationSWLongitude = -180,
-		label1 = true,
-		label2 = false,
+		label1 = false,
+		label2 = true,
 		label3 = false,
 		label4 = false,
 		label5 = false,
 		labelOp = "any",
-		minRating = 4,
+		minRating = 3,
 		noLabel = false,
 		pick = "unrejected",
 		ratingOp = "==",

@@ -1,22 +1,16 @@
 s = {
-	id = "DE3E3C5B-2561-4052-9BF2-00B1E66967DA",
-	internalName = "WF7: Filter similar",
-	title = "WF7: Filter similar",
+	id = "77FAEE31-DF88-4F07-881C-E7EEBB45D2AF",
+	internalName = "WF11: Check noise problems",
+	title = "WF11: Check noise problems",
 	type = "LibraryFilter",
 	value = {
 		columnBrowserActive = true,
 		columnBrowserDesc = {
 			{
-				criteria = "keyword",
+				criteria = "camera",
 			},
 			{
-				criteria = "keyword",
-			},
-			{
-				criteria = "flashFired",
-			},
-			{
-				criteria = "label",
+				criteria = "isoSpeed",
 			},
 		},
 		customLabel = false,
@@ -32,7 +26,7 @@ s = {
 		label4 = false,
 		label5 = false,
 		labelOp = "any",
-		minRating = "<nil>",
+		minRating = 4,
 		noLabel = false,
 		pick = "unrejected",
 		ratingOp = "==",

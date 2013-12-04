@@ -1,7 +1,7 @@
 s = {
-	id = "2A0C90CE-D380-4653-A511-7F6978C96635",
-	internalName = "WF6: Check crop",
-	title = "WF6: Check crop",
+	id = "449F6441-CD2B-40F9-9B05-35E86DEC6C84",
+	internalName = "WF5: Check exposure",
+	title = "WF05: Check exposure",
 	type = "LibraryFilter",
 	value = {
 		columnBrowserActive = false,
@@ -35,7 +35,7 @@ s = {
 		label4 = false,
 		label5 = false,
 		labelOp = "any",
-		minRating = 5,
+		minRating = 4,
 		noLabel = false,
 		pick = "unrejected",
 		ratingOp = "==",
