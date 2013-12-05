@@ -1,0 +1,56 @@
+s = {
+	id = "D29661D8-7927-4AE3-BB67-6EB85E91DA31",
+	internalName = "Keywords",
+	title = "Keywords",
+	type = "LibraryFilter",
+	value = {
+		columnBrowserActive = true,
+		columnBrowserDesc = {
+			{
+				criteria = "keyword",
+				selections = {
+					621279,
+				},
+			},
+			{
+				criteria = "keyword",
+				selections = {
+					621279,
+				},
+			},
+			{
+				criteria = "focalLength",
+			},
+			{
+				criteria = "flashFired",
+			},
+			{
+				criteria = "isoSpeed",
+			},
+		},
+		customLabel = false,
+		filtersActive = false,
+		gpsLocation = false,
+		gpsLocationNELatitude = 45.783102029466,
+		gpsLocationNELongitude = 4.8659146332741,
+		gpsLocationSWLatitude = 45.782231300468,
+		gpsLocationSWLongitude = 4.8640853667259,
+		label1 = false,
+		label2 = true,
+		label3 = false,
+		label4 = false,
+		label5 = false,
+		labelOp = "any",
+		minRating = 5,
+		noLabel = true,
+		pick = "unrejected",
+		ratingOp = "<=",
+		searchOp = "all",
+		searchString = "",
+		searchStringActive = false,
+		searchTarget = "all",
+		usage = "<nil>",
+		whichCopies = "<nil>",
+	},
+	version = 0,
+}
