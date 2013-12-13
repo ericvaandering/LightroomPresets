@@ -1,0 +1,16 @@
+s = {
+	id = "F6026E35-6AFB-4EF3-AD40-46F710666BB0",
+	internalName = "UW Whitebalance 8000",
+	title = "UW Whitebalance 8000",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 8000,
+			Tint = 22,
+			WhiteBalance = "Custom",
+		},
+		uuid = "5FEE7F52-87A4-4D79-BC0F-5C4F1412440A",
+	},
+	version = 0,
+}
