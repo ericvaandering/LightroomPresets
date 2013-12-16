@@ -1,0 +1,19 @@
+s = {
+	deflated = {
+		{
+			deflatedTokens = {
+				{
+					value = "com.adobe.title",
+				},
+			},
+			presetType = "Metadata",
+			uuid = "69B4C900-73DB-40E7-B52D-5AE8542E6BDB",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	title = ZSTR "$$$/TokenPresets/Metadata/Title/Title=Title",
+	internalName = "Title",
+	type = "Metadata_Tokens",
+	version = 1,
+}

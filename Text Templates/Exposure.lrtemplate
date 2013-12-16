@@ -1,0 +1,19 @@
+s = {
+	deflated = {
+		{
+			deflatedTokens = {
+				{
+					value = "com.adobe.exposure",
+				},
+			},
+			presetType = "Metadata",
+			uuid = "9B09897E-CF29-4AE4-A6A6-43FAE8DBAE2D",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	title = ZSTR "$$$/TokenPresets/Metadata/Title/Exposure=Exposure",
+	internalName = "Exposure",
+	type = "Metadata_Tokens",
+	version = 1,
+}

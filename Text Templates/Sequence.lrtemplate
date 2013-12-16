@@ -1,0 +1,23 @@
+s = {
+	deflated = {
+		{
+			deflatedTokens = {
+				{
+					value = "naming_operationSequence_1Digit",
+				},
+				" / ",
+				{
+					value = "naming_sequenceTotal_1Digit",
+				},
+			},
+			presetType = "Metadata",
+			uuid = "19B390C7-E7C2-4050-8E1F-4656EC12C9F2",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	title = ZSTR "$$$/TokenPresets/Metadata/Title/Sequence=Sequence",
+	internalName = "Sequence",
+	type = "Metadata_Tokens",
+	version = 1,
+}

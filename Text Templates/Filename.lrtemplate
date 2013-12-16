@@ -1,0 +1,19 @@
+s = {
+	deflated = {
+		{
+			deflatedTokens = {
+				{
+					value = "image_name",
+				},
+			},
+			presetType = "Metadata",
+			uuid = "filename-metadata-token-preset",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	title = ZSTR "$$$/TokenPresets/Metadata/Title/Filename=Filename",
+	internalName = "Filename",
+	type = "Metadata_Tokens",
+	version = 1,
+}

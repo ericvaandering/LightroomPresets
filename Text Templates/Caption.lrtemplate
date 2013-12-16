@@ -1,0 +1,19 @@
+s = {
+	deflated = {
+		{
+			deflatedTokens = {
+				{
+					value = "com.adobe.caption",
+				},
+			},
+			presetType = "Metadata",
+			uuid = "69B4C900-73DB-40E7-B52D-5AE8542E6BDA",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	title = ZSTR "$$$/TokenPresets/Metadata/Title/Caption=Caption",
+	internalName = "Caption",
+	type = "Metadata_Tokens",
+	version = 1,
+}

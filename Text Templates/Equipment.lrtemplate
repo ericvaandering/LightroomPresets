@@ -1,0 +1,23 @@
+s = {
+	deflated = {
+		{
+			deflatedTokens = {
+				{
+					value = "com.adobe.model",
+				},
+				" - ",
+				{
+					value = "com.adobe.lens",
+				},
+			},
+			presetType = "Metadata",
+			uuid = "8CA7C24F-E76A-4EA7-A806-F5CBF0AB7AB6",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	title = ZSTR "$$$/TokenPresets/Metadata/Title/Equipment=Equipment",
+	internalName = "Equipment",
+	type = "Metadata_Tokens",
+	version = 2,
+}

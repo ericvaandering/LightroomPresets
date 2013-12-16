@@ -1,0 +1,19 @@
+s = {
+	deflated = {
+		{
+			deflatedTokens = {
+				{
+					value = "date_LocalEncoding",
+				},
+			},
+			presetType = "Metadata",
+			uuid = "65A1BFF3-ED26-41D5-8E9A-BEC7FBD9EF21",
+		},
+		"AgTokenPresets",
+		"restoreTokenFromArchivedState",
+	},
+	title = ZSTR "$$$/TokenPresets/Metadata/Title/Date=Date",
+	internalName = "Date",
+	type = "Metadata_Tokens",
+	version = 1,
+}
