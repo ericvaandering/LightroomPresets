@@ -1,7 +1,7 @@
 s = {
 	id = "03C421C8-738F-4927-A741-A2156D1359D6",
 	internalName = "WF9: Recheck exposure",
-	title = "WF9: Recheck exposure",
+	title = "WF09: Recheck exposure",
 	type = "LibraryFilter",
 	value = {
 		columnBrowserActive = false,

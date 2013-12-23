@@ -1,7 +1,7 @@
 s = {
 	id = "5325ACA7-9AE0-49D4-99D0-9E5CF407A6E2",
 	internalName = "WF8: Set WB individually",
-	title = "WF8: Set WB individually",
+	title = "WF08: Set WB individually",
 	type = "LibraryFilter",
 	value = {
 		columnBrowserActive = false,
