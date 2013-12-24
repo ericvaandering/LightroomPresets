@@ -1,0 +1,33 @@
+s = {
+	id = "A50DAEFB-2393-4301-9B65-D1694A625D36",
+	internalName = "Eric Copyright",
+	title = "Eric Copyright",
+	type = "WatermarkingPreset",
+	value = {
+		items = {
+			{
+				anchor = "bottomleft",
+				horizontalPadding = 0.016743259803922,
+				kind = "text",
+				opacity = 1,
+				orientation = "AB",
+				sizeKind = "relative",
+				sizeRelativeAmount = 0.12615587551781,
+				text = "© Eric Vaandering",
+				textColorBlue = 1,
+				textColorGreen = 1,
+				textColorRed = 1,
+				textFontName = "MyriadWebPro",
+				textHorizontalAlignment = "left",
+				textShadowAngle = 270,
+				textShadowEnabled = true,
+				textShadowOffset = 0.1,
+				textShadowOpacity = 0.8,
+				textShadowRadius = 0.2,
+				textVerticalAlignment = "top",
+				verticalPadding = 0.013628472222222,
+			},
+		},
+	},
+	version = 0,
+}
