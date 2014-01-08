@@ -1,7 +1,7 @@
 s = {
 	id = "33B344B3-D75D-4797-89B6-B2BE0FEEFD1E",
 	internalName = "WF1: Check focus",
-	title = "WF1: Check focus",
+	title = "WF01: Check focus",
 	type = "LibraryFilter",
 	value = {
 		columnBrowserActive = false,
