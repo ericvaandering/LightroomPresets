@@ -1,0 +1,50 @@
+s = {
+	id = "54C8B67E-4063-4422-8DC2-24AEC7C07076",
+	internalName = "WF0: Set NR and GPS",
+	title = "WF00: Set NR and GPS",
+	type = "LibraryFilter",
+	value = {
+		columnBrowserActive = true,
+		columnBrowserDesc = {
+			{
+				criteria = "camera",
+			},
+			{
+				criteria = "lens",
+			},
+			{
+				criteria = "flashFired",
+			},
+			{
+				criteria = "isoSpeed",
+			},
+			{
+				criteria = "hasGPS",
+			},
+		},
+		customLabel = false,
+		filtersActive = true,
+		gpsLocation = false,
+		gpsLocationNELatitude = 83.068848955463,
+		gpsLocationNELongitude = 180,
+		gpsLocationSWLatitude = -63.859762740392,
+		gpsLocationSWLongitude = -180,
+		label1 = false,
+		label2 = false,
+		label3 = false,
+		label4 = false,
+		label5 = false,
+		labelOp = "any",
+		minRating = "<nil>",
+		noLabel = true,
+		pick = "unrejected",
+		ratingOp = "==",
+		searchOp = "all",
+		searchString = "",
+		searchStringActive = false,
+		searchTarget = "all",
+		usage = "<nil>",
+		whichCopies = "<nil>",
+	},
+	version = 0,
+}
