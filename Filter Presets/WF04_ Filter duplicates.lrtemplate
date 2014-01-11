@@ -1,7 +1,7 @@
 s = {
-	id = "533766AD-0BB4-4D15-AC91-B84195373D58",
-	internalName = "WF2: Set rough WB",
-	title = "WF2: Set rough WB",
+	id = "572E8312-2BD3-4420-9592-7DDF332CE8E5",
+	internalName = "WF4: Filter duplicates",
+	title = "WF04: Filter duplicates",
 	type = "LibraryFilter",
 	value = {
 		columnBrowserActive = false,
@@ -32,7 +32,7 @@ s = {
 		label4 = false,
 		label5 = false,
 		labelOp = "any",
-		minRating = 1,
+		minRating = 3,
 		noLabel = false,
 		pick = "unrejected",
 		ratingOp = "==",

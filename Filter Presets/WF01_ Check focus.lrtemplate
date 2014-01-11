@@ -1,7 +1,7 @@
 s = {
-	id = "572E8312-2BD3-4420-9592-7DDF332CE8E5",
-	internalName = "WF4: Filter duplicates",
-	title = "WF4: Filter duplicates",
+	id = "33B344B3-D75D-4797-89B6-B2BE0FEEFD1E",
+	internalName = "WF1: Check focus",
+	title = "WF01: Check focus",
 	type = "LibraryFilter",
 	value = {
 		columnBrowserActive = false,
@@ -32,7 +32,7 @@ s = {
 		label4 = false,
 		label5 = false,
 		labelOp = "any",
-		minRating = 3,
+		minRating = "<nil>",
 		noLabel = false,
 		pick = "unrejected",
 		ratingOp = "==",
