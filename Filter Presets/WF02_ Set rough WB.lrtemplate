@@ -4,19 +4,13 @@ s = {
 	title = "WF02: Set rough WB",
 	type = "LibraryFilter",
 	value = {
-		columnBrowserActive = false,
+		columnBrowserActive = true,
 		columnBrowserDesc = {
-			{
-				criteria = "dateHierarchy",
-			},
 			{
 				criteria = "camera",
 			},
 			{
-				criteria = "lens",
-			},
-			{
-				criteria = "label",
+				criteria = "flashFired",
 			},
 		},
 		customLabel = false,
@@ -29,7 +23,7 @@ s = {
 		label1 = true,
 		label2 = false,
 		label3 = false,
-		label4 = false,
+		label4 = true,
 		label5 = false,
 		labelOp = "any",
 		minRating = 1,
