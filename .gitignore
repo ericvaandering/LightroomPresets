@@ -1,0 +1,26 @@
+config
+description
+FETCH_HEAD
+HEAD
+index
+Lightroom 5.0 Registration
+packed-refs
+sourcetreeconfig
+hooks/applypatch-msg.sample
+hooks/commit-msg.sample
+hooks/post-commit.sample
+hooks/post-receive.sample
+hooks/post-update.sample
+hooks/pre-applypatch.sample
+hooks/pre-commit.sample
+hooks/pre-rebase.sample
+hooks/prepare-commit-msg.sample
+hooks/update.sample
+info/exclude
+logs/HEAD
+logs/refs/heads/master
+logs/refs/remotes/origin/HEAD
+objects/pack/pack-4198a7b5c297effc4d33ee10832726dfa839a1a7.idx
+objects/pack/pack-4198a7b5c297effc4d33ee10832726dfa839a1a7.pack
+refs/heads/master
+refs/remotes/origin/HEAD

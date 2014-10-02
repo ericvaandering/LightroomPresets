@@ -1,0 +1,48 @@
+s = {
+	id = "F225C5FE-3D05-4436-8301-DA3B5D8C95FF",
+	internalName = "WF14: Ready to move",
+	title = "WF14: Ready to move",
+	type = "LibraryFilter",
+	value = {
+		columnBrowserActive = false,
+		columnBrowserDesc = {
+			{
+				criteria = "keyword",
+			},
+			{
+				criteria = "keyword",
+			},
+			{
+				criteria = "flashFired",
+			},
+			{
+				criteria = "label",
+			},
+			notify = true,
+		},
+		customLabel = false,
+		filtersActive = true,
+		gpsLocation = false,
+		gpsLocationNELatitude = 83.068848955463,
+		gpsLocationNELongitude = 180,
+		gpsLocationSWLatitude = -63.859762740392,
+		gpsLocationSWLongitude = -180,
+		label1 = false,
+		label2 = false,
+		label3 = true,
+		label4 = false,
+		label5 = false,
+		labelOp = "any",
+		minRating = 1,
+		noLabel = false,
+		pick = "unrejected",
+		ratingOp = ">=",
+		searchOp = "any",
+		searchString = "a e i o u y",
+		searchStringActive = true,
+		searchTarget = "caption",
+		usage = "<nil>",
+		whichCopies = "<nil>",
+	},
+	version = 0,
+}
