@@ -4,6 +4,7 @@ s = {
 	title = "Eric Copyright",
 	type = "Metadata",
 	value = {
+		["com.adobe.caption"] = "",
 		["com.adobe.copyright"] = "Eric Vaandering",
 		["com.adobe.copyrightInfoURL"] = "http://evaandering.com/",
 		["com.adobe.copyrightState"] = true,
@@ -13,7 +14,7 @@ s = {
 		["com.adobe.creatorState"] = "Illinois",
 		["com.adobe.creatorWorkEmail"] = "ericvaandering@gmail.com",
 		["com.adobe.creatorWorkWebsite"] = "http://evaandering.com/",
-		uuid = "5D3B7013-AA76-48CE-9BE0-D68F64236616",
+		uuid = "557A6748-DDEE-41A4-8327-7A3B2BC66227",
 	},
 	version = 0,
 }
