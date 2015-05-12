@@ -25,6 +25,7 @@ s = {
 		searchTarget = "all",
 		usage = "<nil>",
 		whichCopies = "<nil>",
+		visualSearchActive = false,
 	},
-	version = 0,
+	version = 1,
 }
