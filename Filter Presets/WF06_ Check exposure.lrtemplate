@@ -1,19 +1,22 @@
 s = {
-	id = "9C1AA9B6-B23A-4502-B2FF-331D00126079",
-	internalName = "WF3: Filter brackets",
-	title = "WF03: Filter brackets (UW dupes)",
+	id = "449F6441-CD2B-40F9-9B05-35E86DEC6C84",
+	internalName = "WF5: Check exposure",
+	title = "WF06: Check exposure",
 	type = "LibraryFilter",
 	value = {
 		columnBrowserActive = false,
 		columnBrowserDesc = {
 			{
-				criteria = "dateHierarchy",
+				criteria = "keyword",
+				selections = {
+					170013,
+				},
 			},
 			{
-				criteria = "camera",
+				criteria = "keyword",
 			},
 			{
-				criteria = "lens",
+				criteria = "flashFired",
 			},
 			{
 				criteria = "label",
@@ -32,7 +35,7 @@ s = {
 		label4 = false,
 		label5 = false,
 		labelOp = "any",
-		minRating = 2,
+		minRating = 4,
 		noLabel = false,
 		pick = "unrejected",
 		ratingOp = "==",

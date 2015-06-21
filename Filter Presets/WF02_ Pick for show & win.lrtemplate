@@ -1,25 +1,16 @@
 s = {
-	id = "2A0C90CE-D380-4653-A511-7F6978C96635",
-	internalName = "WF6: Check crop",
-	title = "WF06: Check crop",
+	id = "533766AD-0BB4-4D15-AC91-B84195373D58",
+	internalName = "WF2: Set rough WB",
+	title = "WF02: Pick for show & win",
 	type = "LibraryFilter",
 	value = {
 		columnBrowserActive = false,
 		columnBrowserDesc = {
 			{
-				criteria = "keyword",
-				selections = {
-					170013,
-				},
-			},
-			{
-				criteria = "keyword",
+				criteria = "camera",
 			},
 			{
 				criteria = "flashFired",
-			},
-			{
-				criteria = "label",
 			},
 		},
 		customLabel = false,
@@ -35,7 +26,7 @@ s = {
 		label4 = false,
 		label5 = false,
 		labelOp = "any",
-		minRating = 5,
+		minRating = 1,
 		noLabel = false,
 		pick = "unrejected",
 		ratingOp = "==",

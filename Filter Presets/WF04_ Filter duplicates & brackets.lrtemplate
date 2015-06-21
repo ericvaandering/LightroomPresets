@@ -1,22 +1,19 @@
 s = {
-	id = "449F6441-CD2B-40F9-9B05-35E86DEC6C84",
-	internalName = "WF5: Check exposure",
-	title = "WF05: Check exposure",
+	id = "572E8312-2BD3-4420-9592-7DDF332CE8E5",
+	internalName = "WF4: Filter duplicates",
+	title = "WF04: Filter duplicates & brackets",
 	type = "LibraryFilter",
 	value = {
 		columnBrowserActive = false,
 		columnBrowserDesc = {
 			{
-				criteria = "keyword",
-				selections = {
-					170013,
-				},
+				criteria = "dateHierarchy",
 			},
 			{
-				criteria = "keyword",
+				criteria = "camera",
 			},
 			{
-				criteria = "flashFired",
+				criteria = "lens",
 			},
 			{
 				criteria = "label",
@@ -35,7 +32,7 @@ s = {
 		label4 = false,
 		label5 = false,
 		labelOp = "any",
-		minRating = 4,
+		minRating = 3,
 		noLabel = false,
 		pick = "unrejected",
 		ratingOp = "==",

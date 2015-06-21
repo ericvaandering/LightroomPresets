@@ -1,19 +1,19 @@
 s = {
-	id = "572E8312-2BD3-4420-9592-7DDF332CE8E5",
-	internalName = "WF4: Filter duplicates",
-	title = "WF04: Filter duplicates",
+	id = "03C421C8-738F-4927-A741-A2156D1359D6",
+	internalName = "WF9: Recheck exposure",
+	title = "WF09: Recheck exposure & WB",
 	type = "LibraryFilter",
 	value = {
 		columnBrowserActive = false,
 		columnBrowserDesc = {
 			{
-				criteria = "dateHierarchy",
+				criteria = "keyword",
 			},
 			{
-				criteria = "camera",
+				criteria = "keyword",
 			},
 			{
-				criteria = "lens",
+				criteria = "flashFired",
 			},
 			{
 				criteria = "label",
@@ -26,13 +26,13 @@ s = {
 		gpsLocationNELongitude = 180,
 		gpsLocationSWLatitude = -63.859762740392,
 		gpsLocationSWLongitude = -180,
-		label1 = true,
-		label2 = false,
+		label1 = false,
+		label2 = true,
 		label3 = false,
 		label4 = false,
 		label5 = false,
 		labelOp = "any",
-		minRating = 3,
+		minRating = 2,
 		noLabel = false,
 		pick = "unrejected",
 		ratingOp = "==",
