@@ -1,0 +1,24 @@
+s = {
+	id = "7E257583-497F-4B2D-B8E1-7461905AACDA",
+	internalName = "EPL5_01600",
+	title = "EPL5_01600",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			ColorNoiseReductionSmoothness = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 20,
+			ProcessVersion = "6.7",
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 50,
+			SharpenRadius = 1,
+			Sharpness = 25,
+		},
+		uuid = "D829082F-7541-41BD-A69B-5C178B57FF5A",
+	},
+	version = 0,
+}
