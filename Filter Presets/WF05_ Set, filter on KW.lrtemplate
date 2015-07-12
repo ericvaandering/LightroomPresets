@@ -32,7 +32,7 @@ s = {
 		label4 = false,
 		label5 = false,
 		labelOp = "any",
-		minRating = 3,
+		minRating = 4,
 		noLabel = false,
 		pick = "unrejected",
 		ratingOp = "==",

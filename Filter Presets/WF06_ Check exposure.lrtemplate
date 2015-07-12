@@ -1,7 +1,7 @@
 s = {
-	id = "449F6441-CD2B-40F9-9B05-35E86DEC6C84",
-	internalName = "WF5: Check exposure",
-	title = "WF06: Check exposure",
+	id = "D3C4DF32-B0A4-4ACE-9693-ACC4AA1D9993",
+	internalName = "WF06: Check Exposure",
+	title = "WF06: Check Exposure",
 	type = "LibraryFilter",
 	value = {
 		columnBrowserActive = false,
@@ -35,7 +35,7 @@ s = {
 		label4 = false,
 		label5 = false,
 		labelOp = "any",
-		minRating = 4,
+		minRating = 5,
 		noLabel = false,
 		pick = "unrejected",
 		ratingOp = "==",
