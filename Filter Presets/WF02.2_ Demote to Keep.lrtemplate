@@ -1,7 +1,7 @@
 s = {
 	id = "9A0EE271-16B0-4A6E-931E-8E2B51040642",
 	internalName = "WF01.6: Not Show",
-	title = "WF01.6: Not Show",
+	title = "WF02.2: Demote to Keep",
 	type = "LibraryFilter",
 	value = {
 		columnBrowserActive = false,

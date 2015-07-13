@@ -1,23 +1,27 @@
 s = {
-	id = "892DEA58-28A8-4AC2-8FBF-4D0D358EDE4B",
-	internalName = "WF01.5: Keep/Show/Win",
-	title = "WF01.5: Keep/Show/Win",
+	id = "1A1DE469-5861-4C63-BF4C-FAE582C040BF",
+	internalName = "WF02.2: Promote to Show",
+	title = "WF02.2: Promote to Show",
 	type = "LibraryFilter",
 	value = {
 		columnBrowserActive = false,
 		columnBrowserDesc = {
 			{
-				criteria = "dateHierarchy",
+				criteria = "keywordHierarchy",
+				selections = {
+					1338376,
+				},
 			},
 			{
-				criteria = "camera",
+				criteria = "keyword",
 			},
 			{
-				criteria = "lens",
+				criteria = "flashFired",
 			},
 			{
 				criteria = "label",
 			},
+			notify = true,
 		},
 		customLabel = false,
 		filtersActive = true,
@@ -26,7 +30,7 @@ s = {
 		gpsLocationNELongitude = 180,
 		gpsLocationSWLatitude = -63.859762740392,
 		gpsLocationSWLongitude = -180,
-		label1 = true,
+		label1 = false,
 		label2 = false,
 		label3 = false,
 		label4 = false,
@@ -34,7 +38,7 @@ s = {
 		labelOp = "any",
 		minRating = "<nil>",
 		noLabel = false,
-		pick = "unrejected",
+		pick = "flagged",
 		ratingOp = ">=",
 		searchOp = "all",
 		searchString = "",
