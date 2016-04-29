@@ -1,0 +1,18 @@
+s = {
+	id = "88F6B61D-0BF6-47DB-87E9-952377D9083C",
+	internalName = "Crustacean ID",
+	title = "ID - Crustacean",
+	type = "KeywordSet",
+	value = {
+		shortcut1title = "ID-Squat",
+		shortcut2title = "ID-Crustacean",
+		shortcut3title = "ID-More",
+		shortcut4title = "ID-Lobster",
+		shortcut5title = "ID-Mantis",
+		shortcut6title = "ID-SlipperLobster",
+		shortcut7title = "ID-Crab",
+		shortcut8title = "ID-Shrimp",
+		shortcut9title = "ID-Amphipod",
+	},
+	version = 0,
+}

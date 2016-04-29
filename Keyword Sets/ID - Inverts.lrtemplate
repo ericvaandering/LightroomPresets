@@ -1,0 +1,18 @@
+s = {
+	id = "BB96B825-79B0-4D13-9AD7-D438F25FAADD",
+	internalName = "ID - Inverts",
+	title = "ID - Inverts",
+	type = "KeywordSet",
+	value = {
+		shortcut1title = "ID-SeaFan",
+		shortcut2title = "ID-SeaRod",
+		shortcut3title = "ID-Invert",
+		shortcut4title = "ID-Soft Coral",
+		shortcut5title = "ID-Worm",
+		shortcut6title = "ID-Coral",
+		shortcut7title = "ID-Sponge",
+		shortcut8title = "ID-Stony Coral",
+		shortcut9title = "ID-Tunicate",
+	},
+	version = 0,
+}

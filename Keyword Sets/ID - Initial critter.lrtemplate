@@ -1,0 +1,18 @@
+s = {
+	id = "89BB2B9A-DC78-41F3-AB34-64FCFE3DD281",
+	internalName = "Initial critter ID",
+	title = "ID - Initial critter",
+	type = "KeywordSet",
+	value = {
+		shortcut1title = "ID-Fish",
+		shortcut2title = "ID-Invert",
+		shortcut3title = "ID-Reptile",
+		shortcut4title = "ID-Mollusc",
+		shortcut5title = "ID-Crustacean",
+		shortcut6title = "ID-Anemone",
+		shortcut7title = "ID-Slug-Nudi",
+		shortcut8title = "ID-Echinoderm",
+		shortcut9title = "ID-More",
+	},
+	version = 0,
+}

@@ -1,0 +1,18 @@
+s = {
+	id = "12745BAE-102A-46C6-AFC4-639D6D3B7643",
+	internalName = "ID - Fish Pacific 2",
+	title = "ID - Fish Pacific 2",
+	type = "KeywordSet",
+	value = {
+		shortcut1title = "ID-Squirrelfish",
+		shortcut2title = "ID-Parrot",
+		shortcut3title = "ID-Fish",
+		shortcut4title = "ID-Flounder-Sole",
+		shortcut5title = "ID-Goby-Blennie",
+		shortcut6title = "ID-Cardinal",
+		shortcut7title = "ID-Bass-Grouper",
+		shortcut8title = "ID-Butterfly-Angel",
+		shortcut9title = "ID-Trigger",
+	},
+	version = 0,
+}

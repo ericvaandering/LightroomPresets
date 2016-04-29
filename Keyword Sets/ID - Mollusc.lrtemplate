@@ -1,0 +1,18 @@
+s = {
+	id = "5F9EC533-8FAD-414F-9FC3-DDE637733FCE",
+	internalName = "ID - Mollusc",
+	title = "ID - Mollusc",
+	type = "KeywordSet",
+	value = {
+		shortcut1title = "ID-Cuttlefish",
+		shortcut2title = "ID-Mollusc",
+		shortcut3title = "ID-More",
+		shortcut4title = "ID-Snail",
+		shortcut5title = "ID-Octopus",
+		shortcut6title = "ID-Squid",
+		shortcut7title = "ID-Bivalve",
+		shortcut8title = "ID-Cephelopod",
+		shortcut9title = "ID-Slug-Nudi",
+	},
+	version = 0,
+}

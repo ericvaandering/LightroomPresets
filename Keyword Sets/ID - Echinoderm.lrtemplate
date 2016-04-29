@@ -1,0 +1,18 @@
+s = {
+	id = "54B15003-62B7-4D44-AF30-7D5E1070A63A",
+	internalName = "ID - Echinoderm",
+	title = "ID - Echinoderm",
+	type = "KeywordSet",
+	value = {
+		shortcut1title = "ID-More",
+		shortcut2title = "",
+		shortcut3title = "ID-Echinoderm",
+		shortcut4title = "ID-BrittleStar",
+		shortcut5title = "ID-BasketStar",
+		shortcut6title = "ID-Urchin",
+		shortcut7title = "ID-SeaStar",
+		shortcut8title = "ID-SeaCucumber",
+		shortcut9title = "ID-Crinoid",
+	},
+	version = 0,
+}
