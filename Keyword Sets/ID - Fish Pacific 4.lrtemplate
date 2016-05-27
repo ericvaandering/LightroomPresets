@@ -1,0 +1,18 @@
+s = {
+	id = "63BF88F0-E7E1-487C-9622-7679A1FE540D",
+	internalName = "ID - Fish Pacific 4",
+	title = "ID - Fish Pacific 4",
+	type = "KeywordSet",
+	value = {
+		shortcut1title = "",
+		shortcut2title = "",
+		shortcut3title = "ID-Fish",
+		shortcut4title = "",
+		shortcut5title = "",
+		shortcut6title = "",
+		shortcut7title = "ID-Batfish",
+		shortcut8title = "ID-Catfish",
+		shortcut9title = "",
+	},
+	version = 0,
+}

@@ -1,0 +1,18 @@
+s = {
+	id = "452BFE58-2866-4F59-A583-AEAA44E380F2",
+	internalName = "ID - Seahorse like",
+	title = "ID - Seahorse like",
+	type = "KeywordSet",
+	value = {
+		shortcut1title = "ID-LeafScorp",
+		shortcut2title = "ID-Flathead",
+		shortcut3title = "ID-ScorpLike",
+		shortcut4title = "ID-Rhinopias",
+		shortcut5title = "ID-Lionfish",
+		shortcut6title = "ID-Waspfish",
+		shortcut7title = "ID-Scorpionfish",
+		shortcut8title = "ID-Frogfish",
+		shortcut9title = "ID-Toadfish",
+	},
+	version = 0,
+}

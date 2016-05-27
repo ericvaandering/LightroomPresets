@@ -1,0 +1,18 @@
+s = {
+	id = "0ADFA956-AD39-4CF1-BC39-B0DD80A73B7C",
+	internalName = "ID - SlugNudi",
+	title = "ID - SlugNudi",
+	type = "KeywordSet",
+	value = {
+		shortcut1title = "ID-HeadShield",
+		shortcut2title = "ID-Slug",
+		shortcut3title = "ID-Slug-Nudi",
+		shortcut4title = "ID-Hypselodoris",
+		shortcut5title = "ID-Chromodoris",
+		shortcut6title = "ID-Nemobratha",
+		shortcut7title = "ID-Dorid",
+		shortcut8title = "ID-Aeolid",
+		shortcut9title = "ID-Arminid",
+	},
+	version = 0,
+}

@@ -1,0 +1,18 @@
+s = {
+	id = "6D8D8DDC-1845-4046-80BC-CA358DD9FD57",
+	internalName = "ID - Scorpionfish",
+	title = "ID - Scorpionfish",
+	type = "KeywordSet",
+	value = {
+		shortcut1title = "ID-LeafScorp",
+		shortcut2title = "ID-Flathead",
+		shortcut3title = "ID-ScorpLike",
+		shortcut4title = "ID-Rhinopias",
+		shortcut5title = "ID-Lionfish",
+		shortcut6title = "ID-Waspfish",
+		shortcut7title = "ID-Scorpionfish",
+		shortcut8title = "ID-Frogfish",
+		shortcut9title = "ID-Toadfish",
+	},
+	version = 0,
+}
