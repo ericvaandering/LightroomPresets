@@ -1,0 +1,47 @@
+s = {
+	id = "493BBDB9-391C-485F-8AB0-3ED7CA56A9EA",
+	internalName = "Picks",
+	title = "Picks",
+	type = "LibraryFilter",
+	value = {
+		columnBrowserActive = false,
+		columnBrowserDesc = {
+			{
+				criteria = "keyword",
+			},
+			{
+				criteria = "keyword",
+			},
+			{
+				criteria = "flashFired",
+			},
+			{
+				criteria = "label",
+			},
+		},
+		customLabel = false,
+		filtersActive = true,
+		gpsLocation = false,
+		gpsLocationNELatitude = 83.068848955463,
+		gpsLocationNELongitude = 180,
+		gpsLocationSWLatitude = -63.859762740392,
+		gpsLocationSWLongitude = -180,
+		label1 = false,
+		label2 = false,
+		label3 = false,
+		label4 = false,
+		label5 = false,
+		labelOp = "any",
+		minRating = "<nil>",
+		noLabel = false,
+		pick = "flagged",
+		ratingOp = ">=",
+		searchOp = "all",
+		searchString = "",
+		searchStringActive = false,
+		searchTarget = "all",
+		usage = "<nil>",
+		whichCopies = "<nil>",
+	},
+	version = 0,
+}
