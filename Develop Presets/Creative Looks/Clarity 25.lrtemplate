@@ -1,0 +1,14 @@
+s = {
+	id = "A8B36689-A692-4B82-A806-E0FBFB6A1527",
+	internalName = "Clarity 25",
+	title = "Clarity 25",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 25,
+			ProcessVersion = "6.7",
+		},
+		uuid = "6A42558A-938D-4889-8C96-CA79F9348757",
+	},
+	version = 0,
+}
