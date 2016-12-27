@@ -7,16 +7,13 @@ s = {
 		columnBrowserActive = true,
 		columnBrowserDesc = {
 			{
-				criteria = "keyword",
+				criteria = "keywordHierarchy",
 			},
 			{
 				criteria = "keyword",
 			},
 			{
-				criteria = "isoSpeed",
-			},
-			{
-				criteria = "flashFired",
+				criteria = "keywordHierarchy",
 			},
 		},
 		customLabel = false,

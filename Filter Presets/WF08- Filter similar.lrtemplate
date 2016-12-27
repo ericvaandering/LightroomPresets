@@ -10,13 +10,10 @@ s = {
 				criteria = "keyword",
 			},
 			{
+				criteria = "keywordHierarchy",
+			},
+			{
 				criteria = "keyword",
-			},
-			{
-				criteria = "flashFired",
-			},
-			{
-				criteria = "label",
 			},
 		},
 		customLabel = false,
