@@ -1,17 +1,16 @@
 s = {
-	id = "33B344B3-D75D-4797-89B6-B2BE0FEEFD1E",
-	internalName = "WF1: Check focus",
-	title = "WF01: Check focus",
+	id = "533766AD-0BB4-4D15-AC91-B84195373D58",
+	internalName = "WF2: Set rough WB",
+	title = "WF02.0: Pick for show & win",
 	type = "LibraryFilter",
 	value = {
-		columnBrowserActive = true,
+		columnBrowserActive = false,
 		columnBrowserDesc = {
 			{
-				criteria = "fileFormat",
-				selections = {
-					"JPG",
-					"RAW",
-				},
+				criteria = "camera",
+			},
+			{
+				criteria = "flashFired",
 			},
 		},
 		customLabel = false,
@@ -27,7 +26,7 @@ s = {
 		label4 = false,
 		label5 = false,
 		labelOp = "any",
-		minRating = "<nil>",
+		minRating = 1,
 		noLabel = false,
 		pick = "unrejected",
 		ratingOp = "==",

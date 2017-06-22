@@ -1,27 +1,17 @@
 s = {
-	id = "1A1DE469-5861-4C63-BF4C-FAE582C040BF",
-	internalName = "WF02.2: Promote to Show",
-	title = "WF02.2: Promote to Show",
+	id = "B7D79AEB-462A-47D9-8D03-336C82E65DB3",
+	internalName = "WF01.1: Watch and trim",
+	title = "WF01.1: Watch and trim",
 	type = "LibraryFilter",
 	value = {
-		columnBrowserActive = false,
+		columnBrowserActive = true,
 		columnBrowserDesc = {
 			{
-				criteria = "keywordHierarchy",
+				criteria = "fileFormat",
 				selections = {
-					1338376,
+					"VIDEO",
 				},
 			},
-			{
-				criteria = "keyword",
-			},
-			{
-				criteria = "flashFired",
-			},
-			{
-				criteria = "label",
-			},
-			notify = true,
 		},
 		customLabel = false,
 		filtersActive = true,
@@ -30,7 +20,7 @@ s = {
 		gpsLocationNELongitude = 180,
 		gpsLocationSWLatitude = -63.859762740392,
 		gpsLocationSWLongitude = -180,
-		label1 = false,
+		label1 = true,
 		label2 = false,
 		label3 = false,
 		label4 = false,
@@ -38,8 +28,8 @@ s = {
 		labelOp = "any",
 		minRating = "<nil>",
 		noLabel = false,
-		pick = "flagged",
-		ratingOp = ">=",
+		pick = "unrejected",
+		ratingOp = "==",
 		searchOp = "all",
 		searchString = "",
 		searchStringActive = false,

@@ -1,0 +1,18 @@
+s = {
+	id = "2DD2333F-7833-4E25-B10E-005A8EAB5D2B",
+	internalName = "ID - Fish Caribbean 2",
+	title = "ID - Fish Caribbean 2",
+	type = "KeywordSet",
+	value = {
+		shortcut1title = "ID-TrumpetFish",
+		shortcut2title = "ID-SurgeonTang",
+		shortcut3title = "ID-Fish",
+		shortcut4title = "ID-Lizardfish",
+		shortcut5title = "ID-Jawfish",
+		shortcut6title = "ID-Wrasse",
+		shortcut7title = "ID-Squirrelfish",
+		shortcut8title = "ID-Jack",
+		shortcut9title = "ID-Eel",
+	},
+	version = 0,
+}

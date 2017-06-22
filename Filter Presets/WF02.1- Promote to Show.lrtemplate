@@ -1,17 +1,27 @@
 s = {
-	id = "533766AD-0BB4-4D15-AC91-B84195373D58",
-	internalName = "WF2: Set rough WB",
-	title = "WF02: Pick for show & win",
+	id = "1A1DE469-5861-4C63-BF4C-FAE582C040BF",
+	internalName = "WF02.2: Promote to Show",
+	title = "WF02.1: Promote to Show",
 	type = "LibraryFilter",
 	value = {
 		columnBrowserActive = false,
 		columnBrowserDesc = {
 			{
-				criteria = "camera",
+				criteria = "keywordHierarchy",
+				selections = {
+					1338376,
+				},
+			},
+			{
+				criteria = "keyword",
 			},
 			{
 				criteria = "flashFired",
 			},
+			{
+				criteria = "label",
+			},
+			notify = true,
 		},
 		customLabel = false,
 		filtersActive = true,
@@ -20,16 +30,16 @@ s = {
 		gpsLocationNELongitude = 180,
 		gpsLocationSWLatitude = -63.859762740392,
 		gpsLocationSWLongitude = -180,
-		label1 = true,
+		label1 = false,
 		label2 = false,
 		label3 = false,
 		label4 = false,
 		label5 = false,
 		labelOp = "any",
-		minRating = 1,
+		minRating = "<nil>",
 		noLabel = false,
-		pick = "unrejected",
-		ratingOp = "==",
+		pick = "flagged",
+		ratingOp = ">=",
 		searchOp = "all",
 		searchString = "",
 		searchStringActive = false,

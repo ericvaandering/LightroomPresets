@@ -1,0 +1,18 @@
+s = {
+	id = "2D5A3502-1057-4E0C-BD78-4EF3CEF32BD1",
+	internalName = "ID-Fish Caribbean 1",
+	title = "ID - Fish Caribbean 1",
+	type = "KeywordSet",
+	value = {
+		shortcut1title = "ID-BoxCow",
+		shortcut2title = "ID-Bass-Grouper",
+		shortcut3title = "ID-Damsel",
+		shortcut4title = "ID-Shark Ray",
+		shortcut5title = "ID-Parrot",
+		shortcut6title = "ID-GruntSweetlips",
+		shortcut7title = "ID-Fish",
+		shortcut8title = "ID-Butterfly-Angel",
+		shortcut9title = "ID-PufferTriggerFile",
+	},
+	version = 0,
+}

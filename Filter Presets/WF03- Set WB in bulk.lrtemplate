@@ -12,6 +12,9 @@ s = {
 			{
 				criteria = "flashFired",
 			},
+			{
+				criteria = "fileFormat",
+			},
 		},
 		customLabel = false,
 		filtersActive = true,
